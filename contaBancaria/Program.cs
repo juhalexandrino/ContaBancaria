@@ -126,7 +126,8 @@ namespace contaBancaria
 
         static void KeyPress()
         {
-            do{
+            do
+            {
                 Console.Write("\nPressione enter para continuar...");
                 consoleKeyInfo = Console.ReadKey();
             } while (consoleKeyInfo.Key != ConsoleKey.Enter);
