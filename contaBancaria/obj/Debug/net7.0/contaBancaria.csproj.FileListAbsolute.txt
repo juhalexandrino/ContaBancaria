@@ -12,3 +12,17 @@ C:\Users\julia\Desktop\contaBancaria\contaBancaria\obj\Debug\net7.0\refint\conta
 C:\Users\julia\Desktop\contaBancaria\contaBancaria\obj\Debug\net7.0\contaBancaria.pdb
 C:\Users\julia\Desktop\contaBancaria\contaBancaria\obj\Debug\net7.0\contaBancaria.genruntimeconfig.cache
 C:\Users\julia\Desktop\contaBancaria\contaBancaria\obj\Debug\net7.0\ref\contaBancaria.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Projeto\contaBancaria\contaBancaria\bin\Debug\net7.0\contaBancaria.exe
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Projeto\contaBancaria\contaBancaria\bin\Debug\net7.0\contaBancaria.deps.json
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Projeto\contaBancaria\contaBancaria\bin\Debug\net7.0\contaBancaria.runtimeconfig.json
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Projeto\contaBancaria\contaBancaria\bin\Debug\net7.0\contaBancaria.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Projeto\contaBancaria\contaBancaria\bin\Debug\net7.0\contaBancaria.pdb
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Projeto\contaBancaria\contaBancaria\obj\Debug\net7.0\contaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Projeto\contaBancaria\contaBancaria\obj\Debug\net7.0\contaBancaria.AssemblyInfoInputs.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Projeto\contaBancaria\contaBancaria\obj\Debug\net7.0\contaBancaria.AssemblyInfo.cs
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Projeto\contaBancaria\contaBancaria\obj\Debug\net7.0\contaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Projeto\contaBancaria\contaBancaria\obj\Debug\net7.0\contaBancaria.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Projeto\contaBancaria\contaBancaria\obj\Debug\net7.0\refint\contaBancaria.dll
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Projeto\contaBancaria\contaBancaria\obj\Debug\net7.0\contaBancaria.pdb
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Projeto\contaBancaria\contaBancaria\obj\Debug\net7.0\contaBancaria.genruntimeconfig.cache
+C:\Users\julia\Documents\Tecnologia\Cursos\Generation .NET 03\Bloco 01\Projeto\contaBancaria\contaBancaria\obj\Debug\net7.0\ref\contaBancaria.dll

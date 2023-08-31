@@ -1,4 +1,5 @@
 ﻿using System.Runtime.CompilerServices;
+using contaBancaria.Model;
 
 namespace contaBancaria
 {
@@ -7,9 +8,21 @@ namespace contaBancaria
         private static ConsoleKeyInfo consoleKeyInfo;
         static void Main(string[] args)
         {
-
             int entrada;
-            do
+
+            Conta c1 = new Conta(1, 123, 1, "Julia", 1000000.0M);
+            
+            c1.Visualizar();
+            c1.SetNumero(345);
+
+            c1.Sacar(1000);
+            c1.Visualizar();
+
+            c1.Depositar(5000);
+            c1.Visualizar();
+
+
+            while(true)
             {
                 Console.BackgroundColor = ConsoleColor.Gray;
                 Console.ForegroundColor = ConsoleColor.Black;
@@ -106,10 +119,9 @@ namespace contaBancaria
                         Console.WriteLine("Opção inválida!");
                         Console.ResetColor();
                         KeyPress();
-                        
                         break;
                 }
-            } while (entrada > 0 && entrada <= 8);
+            }
         }
 
         static void Sobre()

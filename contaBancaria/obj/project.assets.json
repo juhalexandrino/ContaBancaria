@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia\\Desktop\\contaBancaria\\contaBancaria\\contaBancaria.csproj",
+      "projectUniqueName": "C:\\Users\\julia\\Documents\\Tecnologia\\Cursos\\Generation .NET 03\\Bloco 01\\Projeto\\contaBancaria\\contaBancaria\\contaBancaria.csproj",
       "projectName": "contaBancaria",
-      "projectPath": "C:\\Users\\julia\\Desktop\\contaBancaria\\contaBancaria\\contaBancaria.csproj",
+      "projectPath": "C:\\Users\\julia\\Documents\\Tecnologia\\Cursos\\Generation .NET 03\\Bloco 01\\Projeto\\contaBancaria\\contaBancaria\\contaBancaria.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia\\Desktop\\contaBancaria\\contaBancaria\\obj\\",
+      "outputPath": "C:\\Users\\julia\\Documents\\Tecnologia\\Cursos\\Generation .NET 03\\Bloco 01\\Projeto\\contaBancaria\\contaBancaria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
