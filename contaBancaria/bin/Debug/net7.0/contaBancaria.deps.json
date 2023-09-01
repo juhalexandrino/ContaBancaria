@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "contaBancaria/1.0.0": {
+      "ContaBancaria/1.0.0": {
         "runtime": {
-          "contaBancaria.dll": {}
+          "ContaBancaria.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "contaBancaria/1.0.0": {
+    "ContaBancaria/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

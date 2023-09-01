@@ -1,5 +1,6 @@
 ﻿using System.Runtime.CompilerServices;
 using contaBancaria.Model;
+using ContaBancaria.Model;
 
 namespace contaBancaria
 {
@@ -10,7 +11,7 @@ namespace contaBancaria
         {
             int entrada;
 
-            Conta c1 = new Conta(1, 123, 1, "Julia", 1000000.0M);
+            /*Conta c1 = new Conta(1, 123, 1, "Julia", 1000000.0M);
             
             c1.Visualizar();
             c1.SetNumero(345);
@@ -19,8 +20,17 @@ namespace contaBancaria
             c1.Visualizar();
 
             c1.Depositar(5000);
-            c1.Visualizar();
+            c1.Visualizar(); */
 
+            ContaCorrente cc1 = new ContaCorrente(2, 123, 1, "Samantha", 1000000.00M, 1000M);
+            cc1.Visualizar();
+
+            cc1.Sacar(20000000.00M);
+            cc1.Depositar(5000);
+            cc1.Visualizar();
+
+            ContaPoupanca cp1 = new ContaPoupanca(3, 123, 2, "Priscila", 15000, 5);
+            cp1.Visualizar();
 
             while(true)
             {
@@ -108,7 +118,7 @@ namespace contaBancaria
                     case 9:
                         Console.BackgroundColor = ConsoleColor.White;
                         Console.ForegroundColor = ConsoleColor.DarkYellow;
-                        Console.WriteLine("\nBanco Alexandrino - A riqueza se faz aqui!");
+                        Console.WriteLine("\nBanco Alexandrino - Sua riqueza se faz aqui!");
                         Console.ResetColor();
                         Sobre();
                         System.Environment.Exit(0);
