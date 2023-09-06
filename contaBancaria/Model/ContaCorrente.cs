@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace contaBancaria.Model
+namespace ContaBancaria.Model
 {
     public class ContaCorrente : Conta
     {

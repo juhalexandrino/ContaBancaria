@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace contaBancaria.Model
+namespace ContaBancaria.Model
 {
-    public class Conta
+    public abstract class Conta
     {
         private int numero;
         private int agencia;
