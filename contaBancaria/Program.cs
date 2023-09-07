@@ -27,7 +27,7 @@ namespace contaBancaria
 
                 Console.WriteLine();
                 Console.WriteLine("=============================================");
-                Console.WriteLine("=             BANCO ALEXANDRINO             =");
+                Console.WriteLine("=            BANCO GRÃ-FINISMO              =");
                 Console.WriteLine("=============================================");
                 Console.WriteLine("=  1 - Criar conta                          =");
                 Console.WriteLine("=  2 - Listar todas as contas               =");
@@ -236,7 +236,7 @@ namespace contaBancaria
                     case 9:
                         Console.BackgroundColor = ConsoleColor.White;
                         Console.ForegroundColor = ConsoleColor.DarkYellow;
-                        Console.WriteLine("\nBanco Alexandrino - Sua riqueza se faz aqui!");
+                        Console.WriteLine("\nBanco Grã-finismo - Sua riqueza se faz aqui!");
                         Console.ResetColor();
                         Sobre();
                         System.Environment.Exit(0);
