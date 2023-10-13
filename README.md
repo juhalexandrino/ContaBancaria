@@ -5,7 +5,7 @@
 </div>
 <br>
 
-Projeto de console em C# desenvolvido durante o bootcamp da Generation, turma .NET 03, que simula um sistema de conta bancária. A aplicação possui um menu interativo e duas contas — uma corrente e uma poupança — cadastradas.
+Projeto de console em C# desenvolvido durante o bootcamp da Generation, turma .NET 03, que simula um sistema de conta bancária. A aplicação possui um menu interativo e duas contas — uma corrente e uma poupança — já cadastradas.
 
 ## Funcionalidades
 As funcionalidades desse sistema são:
@@ -38,4 +38,4 @@ As funcionalidades desse sistema são:
     - A partir do menu no console você pode interagir com as opções disponíveis.
   
 ## Contribuições
-Agredeço seu interesse por querer conhecer mais sobre esse projeto! Se deseja contribuir com esse projeto sinta-se a vontade para realizar um fork do repositório, enviar suas solicitações de pull e/ou relatar bugs.
+Agredeço seu interesse por querer conhecer mais sobre esse projeto! Se deseja contribuir sinta-se a vontade para realizar um fork do repositório, enviar suas solicitações de pull e/ou relatar bugs.
